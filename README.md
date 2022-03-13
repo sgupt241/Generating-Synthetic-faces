@@ -1,2 +1,2 @@
-# Generating-Synthetic-faces
-Using PGGAN model to generate synthetic human faces
+# Generating-Synthetic-human-faces
+Using PGGAN architecture to generate synthetic human faces
